@@ -13,18 +13,25 @@ This project includes a simple Node.js script (`script.js`) that starts a server
 
 ### Installation
 1. **Clone the repository:**
-git clone https://github.com/VijayKumar9263/SIMPLE-NODE_JS-SERVER.git
+    ```bash
+    git clone https://github.com/VijayKumar9263/SIMPLE-NODE_JS-SERVER.git
+    ```
 
 2. **Navigate to the project directory:**
-cd SIMPLE-NODE_JS-SERVER
+    ```bash
+    cd SIMPLE-NODE_JS-SERVER
+    ```
 
 3. **Install dependencies:**
-npm install
-
+    ```bash
+    npm install
+    ```
 
 ### Running the Server
 - Start the server using Node.js:
-node script.js
+    ```bash
+    node script.js
+    ```
 
 - Open your web browser and go to `http://localhost:3000/` to see the server message.
 
@@ -37,8 +44,6 @@ node script.js
 
 ## Output
 ![image](https://github.com/VijayKumar9263/SIMPLE-NODE_JS-SERVER/assets/134833144/a836f401-c40f-463f-8a56-d214367547e7)
-
-
 
 ## Contributing
 1. Fork the repository.
